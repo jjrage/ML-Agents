@@ -1,0 +1,23 @@
+{
+    "ObjectTaker": {
+        "checkpoints": [
+            {
+                "steps": 82682,
+                "file_path": "results\\FirstRun\\ObjectTaker\\ObjectTaker-82682.onnx",
+                "reward": 0.9047619047619048,
+                "creation_time": 1618828849.2600808
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 82682,
+            "file_path": "results\\FirstRun\\ObjectTaker.onnx",
+            "reward": 0.9047619047619048,
+            "creation_time": 1618828849.2600808
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

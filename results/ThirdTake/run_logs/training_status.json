@@ -1,0 +1,23 @@
+{
+    "CarAgent": {
+        "checkpoints": [
+            {
+                "steps": 16181,
+                "file_path": "results\\ThirdTake\\CarAgent\\CarAgent-16181.onnx",
+                "reward": -0.6505992002785206,
+                "creation_time": 1618919526.3076031
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16181,
+            "file_path": "results\\ThirdTake\\CarAgent.onnx",
+            "reward": -0.6505992002785206,
+            "creation_time": 1618919526.3076031
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}
